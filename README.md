@@ -1,4 +1,4 @@
-# gerenciadorloja-frontend
+# frontend
 
 ## Project setup
 ```
